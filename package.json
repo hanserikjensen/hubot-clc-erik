@@ -1,0 +1,15 @@
+{
+  "name": "hubot-clc-example",
+  "version": "1.0.0",
+  "description": "ChatOps Example module",
+  "main": "index.cofee",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "Ernest G. Wilson II <Ernest.Wilson@ctl.io> (https://github.com/ernestgwilsonii)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
